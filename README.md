@@ -14,8 +14,8 @@ Simple 2-player 3D air hockey game developed in Unity
 # Functionalities
 
 - 2-player - one can use **WASD** and the other one the **arrow keys** in order to controls their pucks
-- Can press **R** to reset the round
+- Press **R** to reset the round
+- **Score** is tracked on the UI
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMTYwMTQxMjMsLTEzNTgyMDMyNDRdfQ
-==
+eyJoaXN0b3J5IjpbODAxNzcyODkwLC0xMzU4MjAzMjQ0XX0=
 -->
