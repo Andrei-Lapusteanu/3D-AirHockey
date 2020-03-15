@@ -4,7 +4,7 @@
 
 Simple 2-player 3D air hockey game developed in Unity
 
-<iframe class="imgur-embed" width="100%" height="381" frameborder="0" src="https://i.imgur.com/1rOBO8i.gifv#embed"></iframe>
+<a href="https://imgur.com/X7jjznS"><img src="https://i.imgur.com/X7jjznS.gif" title="source: imgur.com" /></a>
 
 # Technologies
 
@@ -17,6 +17,6 @@ Simple 2-player 3D air hockey game developed in Unity
 - Press **R** to reset the round
 - **Score** is tracked on the UI
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkyNTE1MDQ3OCw4MDE3NzI4OTAsLTEzNT
-gyMDMyNDRdfQ==
+eyJoaXN0b3J5IjpbODAxNzcyODkwLDgwMTc3Mjg5MCwtMTM1OD
+IwMzI0NF19
 -->
